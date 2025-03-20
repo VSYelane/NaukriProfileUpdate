@@ -244,7 +244,7 @@ public class SeleniumUtility {
 	{
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File src = ts.getScreenshotAs(OutputType.FILE);
-		File dst = new File(".\\NaukriAutoUpdate\\ScreenShots\\"+screenshotName+".png");
+		File dst = new File(".\\ScreenShots\\"+screenshotName+".png");
 		FileHandler.copy(src, dst);
 		
 		return dst.getAbsolutePath(); //For Extent reports

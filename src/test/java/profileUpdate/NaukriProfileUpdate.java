@@ -37,7 +37,10 @@ public class NaukriProfileUpdate {
 		ProfilePage lp = new ProfilePage(driver);
 		lp.loginToApp(USERNAME, PASSWORD);
 		
+		sUtil.captureScreenshot(driver, "SS1");
+		
 		Thread.sleep(2000);
+		
 		driver.quit();
 
 }

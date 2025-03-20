@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-20T09:58:20 IST" name="Default suite" finished-at="2025-03-20T09:58:43 IST" duration-ms="23096">
+  <suite started-at="2025-03-20T16:06:58 IST" name="Default suite" finished-at="2025-03-20T16:07:33 IST" duration-ms="34672">
     <groups>
     </groups>
-    <test started-at="2025-03-20T09:58:20 IST" name="Default test" finished-at="2025-03-20T09:58:43 IST" duration-ms="23096">
+    <test started-at="2025-03-20T16:06:58 IST" name="Default test" finished-at="2025-03-20T16:07:33 IST" duration-ms="34672">
       <class name="profileUpdate.NaukriProfileUpdate">
-        <test-method signature="TC_001_LoginToNaukri()[pri:0, instance:profileUpdate.NaukriProfileUpdate@647e447]" started-at="2025-03-20T09:58:20 IST" name="TC_001_LoginToNaukri" finished-at="2025-03-20T09:58:43 IST" duration-ms="23044" status="PASS">
+        <test-method signature="TC_001_LoginToNaukri()[pri:0, instance:profileUpdate.NaukriProfileUpdate@647e447]" started-at="2025-03-20T16:06:58 IST" name="TC_001_LoginToNaukri" finished-at="2025-03-20T16:07:33 IST" duration-ms="34590" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_001_LoginToNaukri -->
